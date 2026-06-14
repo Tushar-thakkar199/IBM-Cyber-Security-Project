@@ -1,0 +1,14 @@
+{
+    "raj": {
+        "password": "",
+        "recovery_code": "",
+        "failed_attempts": 0,
+        "locked": false
+    },
+    "mansi": {
+        "password": "4567",
+        "recovery_code": "ravi",
+        "failed_attempts": 0,
+        "locked": false
+    }
+}
